@@ -1,0 +1,8 @@
+{
+  "name": "doode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9d7826f3"
+}
